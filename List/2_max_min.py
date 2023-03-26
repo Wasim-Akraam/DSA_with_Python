@@ -1,5 +1,5 @@
 
-"""  Find the maximum and minimum element in an array """
+"""  Find the maximum and minimum element in an List """
 
 
 def max_min(a):

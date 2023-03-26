@@ -1,10 +1,10 @@
-'Find the "Kth" max and min element of an array'
+'Find the "Kth" max and min element of an List'
 class Solution:
     def kthSmallest(self ,arr, l, r, k):
         '''
-        arr : given array
-        l : starting index of the array i.e 0
-        r : ending index of the array i.e size-1
+        arr : given List
+        l : starting index of the List i.e 0
+        r : ending index of the List i.e size-1
         k : find kth smallest element and return using this function
         '''
 
